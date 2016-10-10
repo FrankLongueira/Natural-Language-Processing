@@ -12,7 +12,7 @@ One project was to build a text categorizer program. The following is a descript
 
 
 
-The final project of the course involved sentiment analyis on amazon fine food review. The following is a descriptio of what was done:
+The final project of the course involved sentiment analyis on amazon fine food review. The following is a description of what was done:
 
 • Performed polarity (positive / negative) sentiment analysis on an Amazon fine food reviews dataset distributed by Kaggle
 • The main components of the project include pre-processing the reviews (lowercasing / stemming), using bigram tokenization in creating Tf-IDf feature vectors for the dataset, and using a logistic regression classifier.
